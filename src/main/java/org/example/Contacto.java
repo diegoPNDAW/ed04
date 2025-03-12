@@ -25,7 +25,7 @@ class Contacto {
     }
 
     /**
-     * obtiene el nombre del contacto
+     * Obtiene el nombre del contacto
      * @return el nombre del contacto.
      */
     public String getName() {

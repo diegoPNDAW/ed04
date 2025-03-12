@@ -44,7 +44,7 @@ public class Agenda {
     }
 
     /**
-     * elimina un contacto de la agenda por su nombre.
+     * Elimina un contacto de la agenda por su nombre.
      * @param name el nombre del contacto a eliminar
      */
     public void removeContact(String name) {
